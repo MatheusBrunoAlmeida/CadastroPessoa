@@ -1,0 +1,8 @@
+.link-sem-estilo {
+  color: blue;
+  text-decoration: none;
+}
+
+.pagination li {
+  cursor: pointer;
+}
